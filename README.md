@@ -1,6 +1,6 @@
 <!--- banner --->
 <p align="center">
-  <img src="./assets/github_banner_rajiabashirrahi_cs_fullstack.png" alt="Rajia Bashir Rahi Banner">
+  <img src="./github_banner_rajiabashirrahi_software_fullstack.png" alt="Rajia Bashir Rahi Banner" />
 </p>
 
 <br/>
