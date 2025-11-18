@@ -28,10 +28,8 @@
 - 🖥️ I’m currently working on full-stack web apps using **HTML, CSS, JavaScript, React, Node.js** and **Express**.
 - 🎨 I enjoy building **responsive, efficient UIs** with **Tailwind CSS**.
 - 📚 I’m learning **TypeScript, Next.js, and modern frontend architecture**.
-- 💬 Ask me about **Full-Stack Development (React, Node, Express, MongoDB)**.
-- 🌐 Explore my portfolio: **[YOUR PORTFOLIO](https://YOUR_PORTFOLIO_URL)**  
-- 📄 View my **[Resume](https://YOUR_RESUME_LINK)**  
-- 📫 Feel free to reach me at **[Email](mailto:YOUR_EMAIL_HERE)**
+- 💬 Ask me about **Full-Stack Development (React, Node, Express, MongoDB)**.  
+- 📫 Feel free to reach me at **[Email](rajiabashirrahi@gmail.com)**
 
 <br/>
 
