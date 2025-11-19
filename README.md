@@ -24,7 +24,7 @@
 
 <!--- about --->
 - 👋 Hi, I’m **[@RAJIABASHIR](https://github.com/RAJIABASHIR)**
-- 💻 I’m a **Computer Engineer & Software Developer** with strong **full-stack** skills.
+- 💻 I’m a **Computer Engineer & Software Developer** with **full-stack** skills.
 - 🖥️ I’m currently working on full-stack web apps using **HTML, CSS, JavaScript, React, Node.js** and **Express**.
 - 🎨 I enjoy building **responsive, efficient UIs** with **Tailwind CSS**.
 - 📚 I’m learning **TypeScript, Next.js, and modern frontend architecture**.
@@ -53,31 +53,31 @@
 <!--- technology --->
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-### 🧾 Languages
+### Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,py)](https://github.com/RAJIABASHIR)
 
-### 🎨 CSS Frameworks & Libraries
+### CSS Frameworks & Libraries
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/RAJIABASHIR)
 
-### ⚛️ JavaScript Frameworks & Libraries
+### JavaScript Frameworks & Libraries
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/RAJIABASHIR)
 
-### 🗄️ Database & Model
+### Database & Model
 [![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/RAJIABASHIR)
 
-### 🚀 Deployment Platforms
+### Deployment Platforms
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/RAJIABASHIR)
 
-### 🎨 Design & Graphics
+### Design & Graphics
 [![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/RAJIABASHIR)
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,github,vscode,postman)](https://github.com/RAJIABASHIR)
 
 <br/>
 
 <!--- GitHub stats (optional but nice) --->
-## 📊 GitHub Stats
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATS:</b>
 
 <p align="center">
   <img 
@@ -106,12 +106,12 @@
 <br/>
 
 <!--- pinned-style note --->
-## 📌 Highlighted Projects
+## Highlighted Projects
 
-- ✅ **Task-Management-App** – Full-stack task manager with separate client & server  
-- ✅ **Manage-Landing-Webpage** – Modern responsive landing page using Tailwind CSS  
-- ✅ **Banking-Website** – Clean, responsive banking landing page  
+- **moviemaster-pro** – Movie management & discovery web app for browsing, adding, and updating movies. Full-stack task manager                                     with separate client & server
+- **hero-apps** – App showcase / landing page that highlights multiple apps in a clean, modern UI.
+- **winter-pet-care** – Informative, responsive page focused on keeping pets safe and comfortable in winter.
 
-> Check the pinned section on my profile to explore these projects.
+
 
 
