@@ -101,8 +101,22 @@
 ## Highlighted Projects
 
 - **moviemaster-pro** – Movie management & discovery web app for browsing, adding, and updating movies. Full-stack task manager with separate client & server
+  
+  Live Link - https://moviemaster-pro-client.netlify.app
+  
+  Github link : https://github.com/RAJIABASHIR/moviemaster-pro
+  
 - **hero-apps** – App showcase / landing page that highlights multiple apps in a clean, modern UI.
+
+  Github Link : https://github.com/RAJIABASHIR/hero-apps
+
+  Live Link : https://productive-hero-apps.netlify.app/
+  
 - **winter-pet-care** – Informative, responsive page focused on keeping pets safe and comfortable in winter.
+
+  Github link - https://github.com/programming-hero-web-course2/b12-a9-firesheild-RAJIABASHIR
+
+  live link - https://pet-care-in-winter.netlify.app
 
 
 
