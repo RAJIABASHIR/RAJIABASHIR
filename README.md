@@ -1,11 +1,9 @@
-<!--- banner --->
 <p align="center">
   <img src="./github_banner_rajiabashirrahi_software_fullstack.png" alt="Rajia Bashir Rahi Banner" />
 </p>
 
 <br/>
 
-<!--- title + typing text --->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
@@ -22,7 +20,6 @@
 
 <br/>
 
-<!--- about --->
 - 👋 Hi, I’m **[@RAJIABASHIR](https://github.com/RAJIABASHIR)**
 - 💻 I’m a **Computer Engineer & Software Developer** with **full-stack** skills.
 - 🖥️ I’m currently working on full-stack web apps using **HTML, CSS, JavaScript, React, Node.js** and **Express**.
@@ -33,12 +30,10 @@
 
 <br/>
 
-<!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
   <p align="left">
-    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
     </a>
@@ -50,7 +45,6 @@
 
 <br/>
 
-<!--- technology --->
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages
@@ -76,7 +70,6 @@
 
 <br/>
 
-<!--- GitHub stats (optional but nice) --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATS:</b>
 
 <p align="center">
@@ -105,10 +98,9 @@
 
 <br/>
 
-<!--- pinned-style note --->
 ## Highlighted Projects
 
-- **moviemaster-pro** – Movie management & discovery web app for browsing, adding, and updating movies. Full-stack task manager                                     with separate client & server
+- **moviemaster-pro** – Movie management & discovery web app for browsing, adding, and updating movies. Full-stack task manager with separate client & server
 - **hero-apps** – App showcase / landing page that highlights multiple apps in a clean, modern UI.
 - **winter-pet-care** – Informative, responsive page focused on keeping pets safe and comfortable in winter.
 
