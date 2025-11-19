@@ -7,7 +7,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Rajia Bashir Rahi</h1>
+      <h1 style="display: inline-block">Hi, I'm Rajia Bashir Rahi</h1>
     </summary>
     <a href="https://git.io/typing-svg">
       <img
